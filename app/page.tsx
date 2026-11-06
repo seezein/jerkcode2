@@ -51,7 +51,7 @@ export default function HomePage() {
               </div>
 
               {/* 3 карточки с цифрами */}
-              <div className="grid grid-cols-3 sm:grid-cols-4 gap-6 mt-1488">
+              <div className="grid grid-cols-3 sm:grid-cols-4 gap-6 mt-14">
                 <div className="bg-[#243763] p-4 rounded-lg">
                   <div className="text-xl font-bold">5000+</div>
                   <div className="text-xs text-white-400 mt-1">заказов в день</div>
