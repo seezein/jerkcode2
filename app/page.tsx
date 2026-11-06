@@ -5,7 +5,7 @@ export default function HomePage() {
       <header className="border-b border-gray-100 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
           <div className="text-2xl font-black tracking-wider text-[#1a2a52] hover:opacity-60">
-            PACK
+            KZPACK
           </div>
           <nav className="hidden md:flex space-x-8 text-sm font-medium text-gray-600">
             <a href="#services" className="hover:text-black transition-colors">Услуги</a>
@@ -188,7 +188,7 @@ export default function HomePage() {
       <section className="bg-[#1b2b4f] text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-2xl mx-auto mb-16">
-            <h2 className="text-2xl sm:text-3xl font-bold">Почему выбирают BOXPACK</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold">Почему выбирают KZPACK</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
